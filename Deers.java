@@ -3,7 +3,7 @@ class Deers{
 
 	int numberOfAnimals;
 	String animals;
-	String enclosureName = "Enclosure"
+	String enclosureName = "Enclosure";
 
 	public Deers(){
 		animals = "";
